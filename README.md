@@ -25,7 +25,7 @@ The `MechaCar_mpg.csv` dataset contains mpg test results for 50 prototype MechaC
 ### Deliverable 1 results:
 ![diliv 1.1](https://github.com/Iffadanwar/MechaCar_Statistical_Analysis/blob/main/images/diliv1.1.png)
 
-mgp = (6.267)vehicle_weight + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD - 104.0
+**mgp = (6.267)vehicle_weight + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD - 104.0**
 
 ![diliv 1.2](https://github.com/Iffadanwar/MechaCar_Statistical_Analysis/blob/main/images/diliv1.2.png)
 
